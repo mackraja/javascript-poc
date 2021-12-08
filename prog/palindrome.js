@@ -16,6 +16,7 @@ function isPalindrome(word) {
     return true;
   }
   
+  // calling the isPalindrome Function
   const result = isPalindrome("HeeH"); // true
   console.log("Result: ", result);
   
